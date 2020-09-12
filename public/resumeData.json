@@ -1,0 +1,133 @@
+{
+  "main": {
+    "name": "Shyam Sundar",
+    "occupation": "Full Stack Developer by heart ❤️, Automation expert. #loveSlappingKeyboard",
+    "image": "profilePic.png",
+    "bio": "My name is Shyam Sundar, I'm a Full Stack Application Developer. Currently I'm working at Capgemini MNC while also self projects development",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "shyamsundarhacker@gmail.com",
+    "phone": "+91 8355916936, +91 9084137244",
+    "address": {
+      "street": "1733 Jaslai road near saraswati shishu mandir",
+      "city": "India",
+      "state": "Uttar Pradesh",
+      "zip": "283135"
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/mayhsundar",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/s4sundar",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/blacksundar",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/mayhsundar",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "APJ Abdul Kalam Technical University (India)",
+        "degree": "Bachelors in Electronic and Communication",
+        "graduated": "May 2017",
+        "description": "Graduated with First Division"
+      }
+    ],
+    "work": [
+      {
+        "company": "Capgemini IND",
+        "title": "Application developer and Automation specialist",
+        "years": "June 2017 - Present",
+        "description": "Working as Automation Lead"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "icon": "reactJs",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "70%"
+      },
+      {
+        "name": "Eletron framework",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazon Price Tracker",
+        "category": "A Python based tool used for tracking amazon price for a given product",
+        "image": "amazon-price-tracker.png",
+        "url": "https://github.com/mayhsundar/AmazonCrawler"
+      },
+      {
+        "title": "DogMatch",
+        "category": "A template design for dogs for their love matching (HTML, JSX, Bootstrap, MongoDB, ExpressJS , NodeJS)",
+        "image": "Dog-Match.png",
+        "url": "https://mayhsundar.github.io/dogmatch/"
+      },
+      {
+        "title": "Simon Game",
+        "category": "A javascript memory game (ExpressJS, Javascript, NodeJS)",
+        "image": "Simon-Game.png",
+        "url": "https://mayhsundar.github.io/simongame/"
+      },
+      {
+        "title": "Shoulder",
+        "category": "A javascript anonymously sharing social network (MongoDB, ExpressJS, Javascript, NodeJS)",
+        "image": "Shoulder.png",
+        "url": "https://github.com/mayhsundar/Shoulder/"
+      },
+      {
+        "title": "Drum board",
+        "category": "A javascript key based music web app(ExpressJS, Javascript, NodeJS)",
+        "image": "Drum-Board.png",
+        "url": "https://mayhsundar.github.io/drumboard/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Automation expert in scripts development",
+        "user": "Manager"
+      }
+    ]
+  }
+}
