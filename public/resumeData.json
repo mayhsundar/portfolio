@@ -60,23 +60,23 @@
       {
         "name": "ReactJs",
         "icon": "reactJs",
-        "level": "80%"
-      },
-      {
-        "name": "Python",
-        "level": "70%"
-      },
-      {
-        "name": "Eletron framework",
-        "level": "70%"
+        "level": "90%"
       },
       {
         "name": "CSS",
-        "level": "80%"
+        "level": "90%"
       },
       {
         "name": "Git",
-        "level": "60%"
+        "level": "90%"
+      },
+      {
+        "name": "Python",
+        "level": "80%"
+      },
+      {
+        "name": "Electron framework",
+        "level": "70%"
       },
       {
         "name": "HTML5",
