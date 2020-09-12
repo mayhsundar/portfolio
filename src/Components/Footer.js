@@ -19,9 +19,14 @@ class Footer extends Component {
         <div className="row">
           <div className="twelve columns">
             <ul className="social-links">{networks}</ul>
-
             <ul>
-              <li>Made with love ♥️ in India</li>
+              <li>
+                Made with love{" "}
+                <span role="img" aria-label="heart">
+                  ❤️{" "}
+                </span>
+                in India
+              </li>
             </ul>
           </div>
           <div id="go-top">
