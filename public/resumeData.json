@@ -3,8 +3,8 @@
     "name": "Shyam Sundar",
     "occupation": "Full Stack Developer by heart ❤️, Automation expert. #loveSlappingKeyboard",
     "image": "profilePic.png",
-    "bio": "My name is Shyam Sundar, I'm a Full Stack Application Developer. Currently I'm working at Capgemini MNC while also self projects development",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "bio": "My name is Shyam Sundar, I'm a Full Stack Application Developer. Currently I'm working at Capgemini MNC and also working for individual projects.",
+    "contactmessage": "Get in touch with me to receive further details.",
     "email": "shyamsundarhacker@gmail.com",
     "phone": "+91 8355916936, +91 9084137244",
     "address": {
@@ -43,7 +43,7 @@
     "education": [
       {
         "school": "APJ Abdul Kalam Technical University (India)",
-        "degree": "Bachelors in Electronic and Communication",
+        "degree": "Bachelor in Electronics and Communication",
         "graduated": "May 2017",
         "description": "Graduated with First Division"
       }
