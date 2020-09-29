@@ -1077,6 +1077,10 @@ footer .copyright li:first-child:before {
   display: none;
 }
 
+footer .footerText{
+  color: #f3f3f3;
+}
+
 /* social links */
 footer .social-links {
   margin: 18px 0 30px 0;

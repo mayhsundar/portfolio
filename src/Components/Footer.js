@@ -20,7 +20,7 @@ class Footer extends Component {
           <div className="twelve columns">
             <ul className="social-links">{networks}</ul>
             <ul>
-              <li>
+              <li className="footerText">
                 Made with love{" "}
                 <span role="img" aria-label="heart">
                   ❤️{" "}
