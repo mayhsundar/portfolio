@@ -105,6 +105,12 @@
         "url": "https://github.com/mayhsundar/AmazonCrawler"
       },
       {
+        "title": "Amazon clone using ReactJS",
+        "category": "A React web app that clones like Amazon giant",
+        "image": "amazon-clone.png",
+        "url": "https://clones-amazon.netlify.app"
+      },
+      {
         "title": "DogMatch",
         "category": "A template design for dogs for their love matching (HTML, JSX, Bootstrap, MongoDB, ExpressJS , NodeJS)",
         "image": "Dog-Match.png",
