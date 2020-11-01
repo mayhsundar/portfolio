@@ -99,6 +99,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Real time Covid 19 -tracker",
+        "category": "A ReactJs based tool used for tracking realtime corona cases",
+        "image": "covid-tracker.png",
+        "url": "https://covidrecords.netlify.app/"
+      },
+      {
         "title": "Amazon Price Tracker",
         "category": "A Python based tool used for tracking amazon price for a given product",
         "image": "amazon-price-tracker.png",
