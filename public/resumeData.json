@@ -3,7 +3,7 @@
     "name": "Shyam Sundar",
     "occupation": "Application Developer, Automation expert by heart❤. #loveSlappingKeyboard",
     "image": "profilePic.png",
-    "bio": "My name is Shyam Sundar, I'm a Full Stack Application Developer. Currently I'm working at Capgemini MNC and also working for individual projects.",
+    "bio": "My name is Shyam Sundar, I'm a SDET with AI/ML exposure. Currently I'm working at Freshworks and also working for individual projects.",
     "contactmessage": "Get in touch with me to receive further details.",
     "email": "mayhsundar@gmail.com",
     "phone": "+91 8355916936, +91 9084137244",
@@ -14,7 +14,7 @@
       "zip": "283135"
     },
     "website": "",
-    "resumedownload": "https://drive.google.com/file/d/10j3sQOLMF_8zp9tjX2TAwlPat21uV29O/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1CAgvLsiQ9a8p_hCFP8ALq-Aoq88e3Li7/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -23,7 +23,7 @@
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/s4sundar",
+        "url": "https://www.linkedin.com/in/mayhsundar",
         "className": "fa fa-linkedin"
       },
       {
@@ -42,6 +42,12 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
+        "school": "IIIT Bangalore",
+        "degree": "PGDM - Artificial Intelligence",
+        "graduated": "July 2024",
+        "description": "Graduated with First Division"
+      },
+      {
         "school": "APJ Abdul Kalam Technical University (India)",
         "degree": "Bachelor in Electronics and Communication",
         "graduated": "May 2017",
@@ -49,6 +55,18 @@
       }
     ],
     "work": [
+      {
+        "company": "Freshworks",
+        "title": "Sr Software Development Engineer in Test",
+        "years": "April 2022 - Present",
+        "description": "Working in AI/ML projects"
+      },
+      {
+        "company": "Bed Bath and Beyond INC",
+        "title": "SDET",
+        "years": "June 2017 - Present",
+        "description": "Working for Ecommerce application"
+      },
       {
         "company": "Capgemini IND",
         "title": "Application developer and Automation specialist",
